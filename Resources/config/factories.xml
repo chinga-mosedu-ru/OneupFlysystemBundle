@@ -61,6 +61,10 @@
                <service id="oneup_flysystem.cache_factory.stash" class="Oneup\FlysystemBundle\DependencyInjection\Factory\Cache\StashFactory">
                    <tag name="oneup_flysystem.cache_factory" />
                </service>
+                <service id="oneup_flysystem.adapter_factory.customadapter" class="Oneup\FlysystemBundle\DependencyInjection\Factory\Adapter\CustomAdapterFactory">
+                    <tag name="oneup_flysystem.adapter_factory" />
+                </service>
+               
            </services>
 
 </container>
