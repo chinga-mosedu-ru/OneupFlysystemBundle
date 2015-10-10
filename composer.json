@@ -1,5 +1,5 @@
 {
-    "name": "oneup/flysystem-bundle",
+    "name": "chinga-mosedu-ru/flysystem-bundle",
     "type": "symfony-bundle",
     "description": "Integrates Flysystem filesystem abstraction library to your Symfony2 project.",
     "keywords": ["symfony2", "flysystem", "filesystem", "abstraction"],
